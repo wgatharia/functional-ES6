@@ -18,6 +18,9 @@ module.exports = {
     'immutable',
   ],
   rules: {
-    'immutable/no-mutation': 2
+    "immutable/no-mutation": 2,
+    "comma-dangle": 2,
+    "linebreak-style": 0,
+    "indent": ["error", 4]
   },
 };
