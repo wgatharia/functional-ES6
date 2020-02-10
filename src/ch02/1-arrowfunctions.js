@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable func-names */
 //  traditional functions
 
 function myFunction(arg1, arg2) {

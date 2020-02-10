@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable no-unused-vars */
 
 const createPrinter = () => () => {
     console.log('Hello');

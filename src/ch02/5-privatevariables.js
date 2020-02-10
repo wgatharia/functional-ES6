@@ -1,6 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable func-names */
-/* eslint-disable no-underscore-dangle */
 
 const Person = ({ name, age, job }) => {
     const _name = name;

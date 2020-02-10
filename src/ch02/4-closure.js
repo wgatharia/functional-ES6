@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable func-names */
 
 const createPrinter = () => {
     const myNumber = 42;

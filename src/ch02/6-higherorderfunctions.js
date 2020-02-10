@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable func-names */
 const divide = (x, y) => x / y;
 
 const secondArgumentIsnotZero = (func) => (...args) => {
